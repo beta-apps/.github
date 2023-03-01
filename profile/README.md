@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/logo_200.png" width="160">
+<img src="https://raw.githubusercontent.com/beta-apps/.github/master/assets/logo_200.png" width="160">
 
 # BetaApps
 
